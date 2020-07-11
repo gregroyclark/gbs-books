@@ -8,3 +8,7 @@ const bookSchema = new Schema({
   image: { },
   link: { }
 });
+
+const Book = mongoose.model("Book", bookSchema);
+
+module.exports = Book;
