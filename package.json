@@ -25,6 +25,7 @@
   "homepage": "https://github.com/gregroyclark/booksearch#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.9.23",
     "path": "^0.12.7"
   }
 }
